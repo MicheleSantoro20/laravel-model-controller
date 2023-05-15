@@ -1,7 +1,3 @@
 <footer>
-    <ul>
-        <li>
-            ...
-        </li>
-    </ul>
+    <h1>Footer</h1>
 </footer>

@@ -1,7 +1,3 @@
 <header>
-    <nav>
-        <ul>
-            <li>...</li>
-        </ul>
-    </nav>
+    <h1>Header</h1>
 </header>
